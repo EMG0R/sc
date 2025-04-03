@@ -1,0 +1,2 @@
+# Analysis proposal
+I would like to analyze my friend Alice's 491 piece because I remember hearing it in person and found it super inspiring. She sent me the code so I have the code to analyze and mess around with. I think it demonstrates a high-level ability to use supercollider artistically so I think it fits the project perfectly and i'm sure its cool for you as one of your former students. Let me know if that doesn't work, thanks!

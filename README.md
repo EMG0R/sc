@@ -1,3 +1,0 @@
-# sc
- SUPAAHH
-hello world
