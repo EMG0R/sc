@@ -1,4 +1,4 @@
-For the project, I already have some super colliding sauce so I want to give it an epic UI and make it super controlable and accessible. Tt will also have drums and be super cool.
+For the project, I already have some super colliding generative sauce so I want to give it an epic UI and make it super controlable and accessible. Tt will also have drums and be super cool.
 
 I will give it a UI knob for:
 
