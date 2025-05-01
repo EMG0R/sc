@@ -1,13 +1,23 @@
-For the project, I already have some super colliding generative sauce so I want to give it an epic UI and make it super controlable and accessible. Tt will also have drums and be super cool.
+# EMORY TRADING PROJECT
 
-I will give it a UI knob for:
+## step 0:  
+run the setup code at the very top
 
-- odds of triggering
-- pitch ADR
-- FM ADR
-- amp ADR
-- distortion
+## step 1:  
+start the **synth** area towards the top
 
-maybe arranged so some of these combine or also control like the reverb
+## step 2:  
+start the **drums** area towards the bottom
 
-I am excited and I feel confident in my ability to get it done and make it fun.
+## step 3:  
+jam out
+
+---
+
+### controls:  
+Use the 4 UI knobs to tweak
+
+- **Volume Amp**  
+- **Pitch Amp**  
+- **Chance**  
+- **BPM**
